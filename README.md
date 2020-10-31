@@ -11,7 +11,7 @@
 <br><br>
 
 ## 🤔 What is Calc Rust?
-🦀 Calc Rust is a calculator in Rust ¯\_(ツ)_/¯
+Calc Rust is a calculator in Rust ¯\_(ツ)_/¯
 
 <br><br>
 
